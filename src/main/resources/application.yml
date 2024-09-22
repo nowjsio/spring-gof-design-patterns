@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: gof-design-patterns
+  web:
+    resources:
+      add-mappings: false # for using NoHandlerFoundException
